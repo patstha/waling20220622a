@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Waling.Web", "Waling.Web\Waling.Web.csproj", "{6ED16F5A-4FAD-47DC-97EA-AC9BE4A0BB2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Waling.Test", "Waling.Test\Waling.Test.csproj", "{F88ABC9C-A3A2-4C0C-95D0-02A9E2764763}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6ED16F5A-4FAD-47DC-97EA-AC9BE4A0BB2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6ED16F5A-4FAD-47DC-97EA-AC9BE4A0BB2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6ED16F5A-4FAD-47DC-97EA-AC9BE4A0BB2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F88ABC9C-A3A2-4C0C-95D0-02A9E2764763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F88ABC9C-A3A2-4C0C-95D0-02A9E2764763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F88ABC9C-A3A2-4C0C-95D0-02A9E2764763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F88ABC9C-A3A2-4C0C-95D0-02A9E2764763}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
