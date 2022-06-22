@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "Waling.Dbup": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ConnectionString": "Server=DESKTOP-PLJO2CR; Database=Waling; User ID=student; Password=student;"
+      }
+    }
+  }
+}

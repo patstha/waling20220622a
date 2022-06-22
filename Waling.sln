@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Waling.Web", "Waling.Web\Waling.Web.csproj", "{6ED16F5A-4FAD-47DC-97EA-AC9BE4A0BB2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Waling.Web", "Waling.Web\Waling.Web.csproj", "{6ED16F5A-4FAD-47DC-97EA-AC9BE4A0BB2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Waling.Test", "Waling.Test\Waling.Test.csproj", "{F88ABC9C-A3A2-4C0C-95D0-02A9E2764763}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Waling.Test", "Waling.Test\Waling.Test.csproj", "{F88ABC9C-A3A2-4C0C-95D0-02A9E2764763}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Waling.Dbup", "Waling.Dbup\Waling.Dbup.csproj", "{A355D3CE-FC47-49F3-885B-07FB406F58A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F88ABC9C-A3A2-4C0C-95D0-02A9E2764763}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F88ABC9C-A3A2-4C0C-95D0-02A9E2764763}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F88ABC9C-A3A2-4C0C-95D0-02A9E2764763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A355D3CE-FC47-49F3-885B-07FB406F58A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A355D3CE-FC47-49F3-885B-07FB406F58A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A355D3CE-FC47-49F3-885B-07FB406F58A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A355D3CE-FC47-49F3-885B-07FB406F58A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
